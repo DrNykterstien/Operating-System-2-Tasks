@@ -31,6 +31,10 @@ class Circle {
         this.color = color;
     }
 
+    public String toString() {
+        return String.format("Circle[radius= %.1f, color= %s]", radius, color);
+    }
+
     public double getArea() {
         return Math.PI * radius * radius;
     }
