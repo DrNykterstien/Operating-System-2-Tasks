@@ -1,5 +1,5 @@
 
-# Resources used to solve task
+# Resources used to solve this task
 
 ---
 
